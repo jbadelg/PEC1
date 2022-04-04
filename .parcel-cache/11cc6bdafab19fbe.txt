@@ -1,9 +1,22 @@
-6399
-33/home/jbadel/PEC1/dist/index.html1649094469253949207 0
-44/home/jbadel/PEC1/dist/index.c7a7cbc3.js.map1649094469263949207 0
-22/home/jbadel/PEC1/dist1649094469303949208 1
+6423
+27/home/jbadel/PEC1/main/refs1649095722833959131 1
+27/home/jbadel/PEC1/main/info1649095722833959131 1
+35/home/jbadel/PEC1/main/objects/info1649095722833959131 1
+46/home/jbadel/PEC1/main/hooks/commit-msg.sample1649095722833959131 0
+47/home/jbadel/PEC1/main/hooks/pre-receive.sample1649095722833959131 0
+42/home/jbadel/PEC1/main/hooks/update.sample1649095722833959131 0
+54/home/jbadel/PEC1/main/hooks/fsmonitor-watchman.sample1649095722823959131 0
+28/home/jbadel/PEC1/main/hooks1649095722833959131 1
+34/home/jbadel/PEC1/main/description1649095722823959131 0
+29/home/jbadel/PEC1/main/config1649095722833959131 0
+27/home/jbadel/PEC1/main/HEAD1649095722833959131 0
+33/home/jbadel/PEC1/dist/index.html1649106335120510304 0
+41/home/jbadel/PEC1/dist/index.4d663569.css1649106360390510504 0
+45/home/jbadel/PEC1/dist/index.4d663569.css.map1649106360390510504 0
+40/home/jbadel/PEC1/dist/index.0641b553.js1649106335110510304 0
+22/home/jbadel/PEC1/dist1649106360390510504 1
 30/home/jbadel/PEC1/package.json1649094418053948802 0
-32/home/jbadel/PEC1/src/styles.css1649094409913948737 0
+32/home/jbadel/PEC1/src/styles.css1649106360310510504 0
 28/home/jbadel/PEC1/src/app.js1649085023783874435 0
 43/home/jbadel/PEC1/node_modules/resolve-from1649084706563871924 1
 54/home/jbadel/PEC1/node_modules/load-json-file/index.js1649087126283891079 0
@@ -247,6 +260,7 @@
 75/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/css-first-line.js1649084706893871926 0
 67/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/beacon.js1649084706803871926 0
 67/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/tls1-1.js1649084707053871928 0
+33/home/jbadel/PEC1/main/refs/heads1649095722833959131 1
 77/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/css-touch-action.js1649084706933871927 0
 70/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/clipboard.js1649084706863871926 0
 67/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/webusb.js1649084707073871928 0
@@ -292,6 +306,7 @@
 79/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/permissions-policy.js1649084707013871927 0
 76/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/insert-adjacent.js1649084706973871927 0
 72/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/text-stroke.js1649084707053871928 0
+35/home/jbadel/PEC1/main/info/exclude1649095722833959131 0
 74/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/selection-api.js1649084707033871927 0
 77/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/css-motion-paths.js1649084706913871926 0
 79/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/element-from-point.js1649084706943871927 0
@@ -476,6 +491,7 @@
 64/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/let.js1649084706983871927 0
 76/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/document-policy.js1649084706943871927 0
 65/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/hevc.js1649084706963871927 0
+35/home/jbadel/PEC1/main/objects/pack1649095722833959131 1
 78/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/media-session-api.js1649084706993871927 0
 69/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/datalist.js1649084706943871927 0
 67/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/mathml.js1649084706993871927 0
@@ -500,7 +516,6 @@
 75/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/resizeobserver.js1649084707033871927 0
 74/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/ambient-light.js1649084706743871925 0
 82/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/background-attachment.js1649084706793871926 0
-45/home/jbadel/PEC1/dist/index.f3dd6bbd.css.map1649094469263949207 0
 77/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/childnode-remove.js1649084706853871926 0
 84/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/css-hanging-punctuation.js1649084706903871926 0
 75/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/battery-status.js1649084706793871926 0
@@ -542,6 +557,7 @@
 58/home/jbadel/PEC1/node_modules/postcss/lib/previous-map.js1649094417453948797 0
 50/home/jbadel/PEC1/node_modules/postcss/lib/rule.js1649094417453948797 0
 62/home/jbadel/PEC1/node_modules/postcss/lib/css-syntax-error.js1649094417443948797 0
+46/home/jbadel/PEC1/main/hooks/pre-rebase.sample1649095722833959131 0
 59/home/jbadel/PEC1/node_modules/postcss/lib/declaration.d.ts1649094417463948797 0
 53/home/jbadel/PEC1/node_modules/postcss/lib/parse.d.ts1649094417473948797 0
 54/home/jbadel/PEC1/node_modules/postcss/lib/document.js1649094417443948797 0
@@ -713,7 +729,6 @@
 48/home/jbadel/PEC1/node_modules/react-refresh/cjs1649084706643871924 1
 54/home/jbadel/PEC1/node_modules/react-refresh/README.md1649084706663871924 0
 52/home/jbadel/PEC1/node_modules/react-refresh/LICENSE1649084706543871924 0
-41/home/jbadel/PEC1/dist/index.f3dd6bbd.css1649094469253949207 0
 57/home/jbadel/PEC1/node_modules/react-refresh/package.json1649084706663871924 0
 61/home/jbadel/PEC1/node_modules/define-properties/CHANGELOG.md1649087126333891079 0
 60/home/jbadel/PEC1/node_modules/define-properties/.travis.yml1649087126313891079 0
@@ -736,6 +751,7 @@
 48/home/jbadel/PEC1/node_modules/is-bigint/.github1649087126353891079 1
 58/home/jbadel/PEC1/node_modules/hosted-git-info/git-host.js1649087126293891079 0
 55/home/jbadel/PEC1/node_modules/hosted-git-info/index.js1649087126313891079 0
+50/home/jbadel/PEC1/main/hooks/pre-applypatch.sample1649095722833959131 0
 46/home/jbadel/PEC1/node_modules/hosted-git-info1649087126333891079 1
 57/home/jbadel/PEC1/node_modules/spdx-exceptions/index.json1649087126263891079 0
 59/home/jbadel/PEC1/node_modules/spdx-exceptions/package.json1649087126273891079 0
@@ -1917,7 +1933,6 @@
 56/home/jbadel/PEC1/node_modules/shebang-command/readme.md1649087126303891079 0
 83/home/jbadel/PEC1/node_modules/css-tree/lib/syntax/pseudo/common/nthWithOfClause.js1649084706893871926 0
 49/home/jbadel/PEC1/node_modules/terser/lib/size.js1649084706863871926 0
-44/home/jbadel/PEC1/dist/index.ae7ecd0d.js.map1649094469263949207 0
 68/home/jbadel/PEC1/node_modules/csso/lib/replace/AttributeSelector.js1649084706683871925 0
 87/home/jbadel/PEC1/node_modules/@swc/helpers/lib/_class_static_private_field_spec_set.js1649084706723871925 0
 67/home/jbadel/PEC1/node_modules/@swc/helpers/src/_sliced_to_array.js1649084706873871926 0
@@ -1990,6 +2005,7 @@
 70/home/jbadel/PEC1/node_modules/css-tree/lib/syntax/node/Declaration.js1649084706833871926 0
 60/home/jbadel/PEC1/node_modules/es-abstract/5/HourFromTime.js1649087126533891081 0
 64/home/jbadel/PEC1/node_modules/source-map-js/lib/mapping-list.js1649094417443948797 0
+22/home/jbadel/PEC1/main1649095722833959131 1
 65/home/jbadel/PEC1/node_modules/string.prototype.trimstart/shim.js1649087126353891079 0
 48/home/jbadel/PEC1/node_modules/resolve/.eslintrc1649087126283891079 0
 56/home/jbadel/PEC1/node_modules/domutils/lib/stringify.js1649084706643871924 0
@@ -2616,7 +2632,7 @@
 64/home/jbadel/PEC1/node_modules/get-intrinsic/.github/FUNDING.yml1649087126363891079 0
 60/home/jbadel/PEC1/node_modules/es-abstract/2019/GetMethod.js1649087126523891081 0
 107/home/jbadel/PEC1/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.win32-x64-msvc.node1649084706923871927 0
-17/home/jbadel/PEC11649094469243949207 1
+17/home/jbadel/PEC11649106173910509028 1
 64/home/jbadel/PEC1/node_modules/@parcel/core/test/fixtures/config1649084710073871951 1
 65/home/jbadel/PEC1/node_modules/cosmiconfig/dist/Explorer.d.ts.map1649084706663871924 0
 66/home/jbadel/PEC1/node_modules/es-abstract/2021/BigInt/multiply.js1649087126673891082 0
@@ -3046,6 +3062,7 @@
 75/home/jbadel/PEC1/node_modules/caniuse-lite/data/features/css-dir-pseudo.js1649084706893871926 0
 52/home/jbadel/PEC1/node_modules/is-negative-zero/test1649087126323891079 1
 77/home/jbadel/PEC1/node_modules/@swc/helpers/lib/_object_without_properties.js1649084706773871925 0
+46/home/jbadel/PEC1/main/hooks/pre-commit.sample1649095722833959131 0
 79/home/jbadel/PEC1/node_modules/@swc/helpers/src/_check_private_redeclaration.js1649084706833871926 0
 68/home/jbadel/PEC1/node_modules/@swc/helpers/src/_set_prototype_of.js1649084706873871926 0
 63/home/jbadel/PEC1/node_modules/@parcel/core/lib/ParcelConfig.js1649084710103871952 0
@@ -3086,6 +3103,7 @@
 69/home/jbadel/PEC1/node_modules/@swc/helpers/src/_wrap_native_super.js1649084706883871926 0
 78/home/jbadel/PEC1/node_modules/lmdb/prebuilds/linux-x64/node.abi102.glibc.node1649084706993871927 0
 69/home/jbadel/PEC1/node_modules/string.prototype.trimstart/polyfill.js1649087126343891079 0
+31/home/jbadel/PEC1/main/branches1649095722823959131 1
 85/home/jbadel/PEC1/node_modules/@babel/highlight/node_modules/ansi-styles/package.json1649084706553871924 0
 71/home/jbadel/PEC1/node_modules/string.prototype.trimstart/test/index.js1649087126343891079 0
 49/home/jbadel/PEC1/node_modules/call-bind/index.js1649087126323891079 0
@@ -3096,6 +3114,7 @@
 61/home/jbadel/PEC1/node_modules/@babel/code-frame/lib/index.js1649084706583871924 0
 118/home/jbadel/PEC1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-exclude/package.json1649084708063871936 0
 60/home/jbadel/PEC1/node_modules/object-inspect/test/number.js1649087126373891079 0
+44/home/jbadel/PEC1/main/hooks/pre-push.sample1649095722833959131 0
 54/home/jbadel/PEC1/node_modules/@parcel/core/lib/public1649084710263871953 1
 73/home/jbadel/PEC1/node_modules/es-abstract/2020/RequireObjectCoercible.js1649087126693891082 0
 67/home/jbadel/PEC1/node_modules/css-tree/lib/syntax/node/Brackets.js1649084706683871925 0
@@ -3223,6 +3242,7 @@
 70/home/jbadel/PEC1/node_modules/resolve/test/resolver/dot_main/index.js1649087126383891080 0
 37/home/jbadel/PEC1/node_modules/@babel1649084706043871920 1
 73/home/jbadel/PEC1/node_modules/@babel/helper-validator-identifier/LICENSE1649084706543871924 0
+30/home/jbadel/PEC1/main/objects1649095722833959131 1
 62/home/jbadel/PEC1/node_modules/es-abstract/2015/MinFromTime.js1649087126673891082 0
 55/home/jbadel/PEC1/node_modules/resolve/test/resolver.js1649087126393891080 0
 75/home/jbadel/PEC1/node_modules/@babel/helper-validator-identifier/README.md1649084706553871924 0
@@ -3751,6 +3771,7 @@
 75/home/jbadel/PEC1/node_modules/supports-preserve-symlinks-flag/package.json1649087126333891079 0
 66/home/jbadel/PEC1/node_modules/terser/lib/compress/tighten-body.js1649084706873871926 0
 36/home/jbadel/PEC1/node_modules/chalk1649084706633871924 1
+54/home/jbadel/PEC1/main/hooks/prepare-commit-msg.sample1649095722833959131 0
 62/home/jbadel/PEC1/node_modules/caniuse-lite/data/regions/KG.js1649084706983871927 0
 41/home/jbadel/PEC1/node_modules/terser/lib1649084706873871926 1
 60/home/jbadel/PEC1/node_modules/es-abstract/2021/StringPad.js1649087126713891082 0
@@ -3816,6 +3837,7 @@
 70/home/jbadel/PEC1/node_modules/css-tree/lib/definition-syntax/index.js1649084706863871926 0
 70/home/jbadel/PEC1/node_modules/type-fest/source/async-return-type.d.ts1649084706613871924 0
 58/home/jbadel/PEC1/node_modules/object.assign/test/index.js1649087126353891079 0
+52/home/jbadel/PEC1/main/hooks/pre-merge-commit.sample1649095722833959131 0
 47/home/jbadel/PEC1/node_modules/get-port/license1649084706583871924 0
 52/home/jbadel/PEC1/node_modules/get-port/package.json1649084706553871924 0
 72/home/jbadel/PEC1/node_modules/es-abstract/2020/IsUnsignedElementType.js1649087126653891082 0
@@ -3925,7 +3947,7 @@
 66/home/jbadel/PEC1/node_modules/es-abstract/2021/BigInt/subtract.js1649087126713891082 0
 67/home/jbadel/PEC1/node_modules/es-abstract/2018/thisBooleanValue.js1649087126713891082 0
 62/home/jbadel/PEC1/node_modules/resolve/test/home_paths_sync.js1649087126383891080 0
-32/home/jbadel/PEC1/src/index.html1649092076463930265 0
+32/home/jbadel/PEC1/src/index.html1649106200310509237 0
 58/home/jbadel/PEC1/node_modules/@parcel/workers/lib/threads1649084708033871935 1
 48/home/jbadel/PEC1/node_modules/call-bind/.github1649087126353891079 1
 55/home/jbadel/PEC1/node_modules/@parcel/resolver-default1649084708693871941 1
@@ -4283,7 +4305,6 @@
 82/home/jbadel/PEC1/node_modules/npm-run-all/node_modules/color-convert/CHANGELOG.md1649087126283891079 0
 55/home/jbadel/PEC1/node_modules/es-abstract/2020/Type.js1649087126753891082 0
 51/home/jbadel/PEC1/node_modules/lmdb/dependencies/v81649084706923871927 1
-40/home/jbadel/PEC1/dist/index.ae7ecd0d.js1649094469253949207 0
 58/home/jbadel/PEC1/node_modules/@parcel/transformer-css/src1649084709113871944 1
 67/home/jbadel/PEC1/node_modules/string.prototype.padend/package.json1649087126363891079 0
 50/home/jbadel/PEC1/node_modules/is-core-module/test1649087126313891079 1
@@ -4442,6 +4463,7 @@
 52/home/jbadel/PEC1/node_modules/resolve-from/index.js1649084706553871924 0
 60/home/jbadel/PEC1/node_modules/es-abstract/2015/IsPromise.js1649087126653891082 0
 58/home/jbadel/PEC1/node_modules/es-abstract/2015/MakeDay.js1649087126663891082 0
+44/home/jbadel/PEC1/dist/index.0641b553.js.map1649106335110510304 0
 70/home/jbadel/PEC1/node_modules/@parcel/core/test/TargetRequest.test.js1649084710273871953 0
 54/home/jbadel/PEC1/node_modules/es-abstract/2015/abs.js1649087126453891080 0
 45/home/jbadel/PEC1/node_modules/csso/README.md1649084706833871926 0
@@ -4670,6 +4692,7 @@
 66/home/jbadel/PEC1/node_modules/es-abstract/2020/thisBigIntValue.js1649087126713891082 0
 60/home/jbadel/PEC1/node_modules/es-abstract/2021/IsPromise.js1649087126653891082 0
 65/home/jbadel/PEC1/node_modules/es-abstract/2021/HasOwnProperty.js1649087126533891081 0
+47/home/jbadel/PEC1/main/hooks/post-update.sample1649095722833959131 0
 70/home/jbadel/PEC1/node_modules/htmlnano/lib/modules/removeUnusedCss.js1649084706743871925 0
 70/home/jbadel/PEC1/node_modules/es-abstract/2021/IsSharedArrayBuffer.js1649087126653891082 0
 58/home/jbadel/PEC1/node_modules/es-abstract/2021/MakeDay.js1649087126663891082 0
@@ -5681,6 +5704,7 @@
 44/home/jbadel/PEC1/node_modules/object.assign1649087126363891079 1
 62/home/jbadel/PEC1/node_modules/caniuse-lite/data/regions/HN.js1649084706963871927 0
 58/home/jbadel/PEC1/node_modules/object.assign/.editorconfig1649087126263891079 0
+32/home/jbadel/PEC1/main/refs/tags1649095722833959131 1
 57/home/jbadel/PEC1/node_modules/object.assign/package.json1649087126363891079 0
 72/home/jbadel/PEC1/node_modules/es-abstract/2018/DefinePropertyOrThrow.js1649087126503891080 0
 59/home/jbadel/PEC1/node_modules/autoprefixer/lib/prefixes.js1649094417473948797 0
@@ -6044,7 +6068,6 @@
 39/home/jbadel/PEC1/node_modules/svgo/lib1649084706883871926 1
 47/home/jbadel/PEC1/node_modules/svgo/lib/path.js1649084706773871925 0
 47/home/jbadel/PEC1/node_modules/svgo/lib/svgo.js1649084706873871926 0
-40/home/jbadel/PEC1/dist/index.c7a7cbc3.js1649094469253949207 0
 51/home/jbadel/PEC1/node_modules/msgpackr/unpack.d.ts1649084706733871925 0
 81/home/jbadel/PEC1/node_modules/dom-serializer/node_modules/entities/lib/decode.js1649084706583871924 0
 68/home/jbadel/PEC1/node_modules/svgo/lib/svgo/css-select-adapter.d.ts1649084706873871926 0
@@ -6303,6 +6326,7 @@
 79/home/jbadel/PEC1/node_modules/electron-to-chromium/full-chromium-versions.json1649084706663871924 0
 60/home/jbadel/PEC1/node_modules/spdx-expression-parse/scan.js1649087126303891079 0
 63/home/jbadel/PEC1/node_modules/electron-to-chromium/versions.js1649084706653871924 0
+50/home/jbadel/PEC1/main/hooks/applypatch-msg.sample1649095722833959131 0
 58/home/jbadel/PEC1/node_modules/dom-serializer/node_modules1649084706043871920 1
 79/home/jbadel/PEC1/node_modules/@parcel/core/lib/requests/WriteBundlesRequest.js1649084710283871953 0
 67/home/jbadel/PEC1/node_modules/dom-serializer/node_modules/entities1649084706673871925 1
