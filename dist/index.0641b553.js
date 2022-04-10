@@ -514,6 +514,18 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"bNKaB":[function(require,module,exports) {
+let dotActive = document.querySelector(".active");
+let hoverLink = document.querySelectorAll("nav.nav ul li a:not(.active)");
+hoverLink.forEach((link)=>{
+    link.addEventListener('mouseenter', (e)=>{
+        dotActive.style.borderBottom = "none";
+    });
+});
+hoverLink.forEach((link)=>{
+    link.addEventListener('mouseleave', (e)=>{
+        dotActive.style.borderBottom = "3px dotted";
+    });
+});
 
 },{}]},["6IXwR","bNKaB"], "bNKaB", "parcelRequire3c64")
 
