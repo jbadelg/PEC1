@@ -15,5 +15,8 @@
     "parcel": "latest",
     "postcss": "^8.4.12",
     "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1"
   }
 }

@@ -36,7 +36,7 @@ p {
 
 blockquote {
   background-color: var(--bg-light-color);
-  width: 75%;
+  width: 100%;
   border-right: 4px solid var(--contrast-color);
   text-align: right;
   margin-top: 15px;
@@ -45,6 +45,12 @@ blockquote {
   padding: 15px 30px;
   font-family: Niconne, sans-serif;
   font-size: x-large;
+}
+
+@media (min-width: 992px) {
+  blockquote {
+    width: 75%;
+  }
 }
 
 body.home {
@@ -65,15 +71,11 @@ body.home main {
   display: flex;
 }
 
-.grid-cont {
-  grid-template-columns: 2fr 2fr 1fr;
-  display: grid;
-}
-
 .titulo-portada {
+  text-align: left;
   color: var(--text-contrast);
   text-transform: uppercase;
-  font-size: 8rem;
+  font-size: 10rem;
 }
 
 .container-portada {
@@ -131,18 +133,18 @@ dd a {
 }
 
 header {
-  height: 25vh;
   background: var(--bg-dark-color);
   padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .brand {
-  text-align: left;
+  text-align: center;
   color: #fff;
 }
 
 nav.nav {
-  text-align: left;
+  text-align: center;
 }
 
 nav.nav ul {
@@ -154,7 +156,6 @@ nav.nav ul li {
   color: var(--text-light-color);
   padding-right: 30px;
   font-size: 1.75rem;
-  display: inline-block;
 }
 
 nav.nav a {
@@ -179,12 +180,31 @@ nav li.active {
   font-weight: bold;
 }
 
+@media (min-width: 992px) {
+  nav.nav, .brand {
+    text-align: left;
+  }
+
+  nav.nav ul li {
+    padding-right: 30px;
+    font-size: 1.75rem;
+    font-weight: 800;
+    display: inline-block;
+  }
+
+  nav.nav ul li:last-child {
+    padding-right: 0;
+  }
+}
+
 nav.menu-interior {
   padding-top: 30px;
 }
 
 nav.menu-interior ul {
   margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
   list-style-type: none;
 }
 
@@ -213,12 +233,13 @@ nav.menu-interior li.active {
 
 .flex-container nav {
   width: 100%;
-  order: 1;
+  text-align: center;
+  order: 0;
 }
 
 .flex-container ul {
   width: 60%;
-  order: 0;
+  order: 1;
 }
 
 article figure figcaption {
@@ -227,7 +248,7 @@ article figure figcaption {
   font-size: .9rem;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .flex-container nav.menu-interior {
     width: 20%;
     order: 0;
@@ -248,6 +269,19 @@ article figure figcaption {
     text-align: justify;
     -webkit-hyphens: auto;
     hyphens: auto;
+  }
+
+  .flex-container nav {
+    width: 100%;
+    text-align: left;
+    order: 0;
+  }
+
+  nav.menu-interior ul {
+    margin-top: 15px;
+    margin-left: 0;
+    margin-right: auto;
+    list-style-type: none;
   }
 }
 
@@ -275,7 +309,14 @@ h1 {
 }
 
 h2 {
+  text-align: center;
   padding-top: 3vh;
+}
+
+@media (min-width: 992px) {
+  h2 {
+    text-align: left;
+  }
 }
 
 footer {

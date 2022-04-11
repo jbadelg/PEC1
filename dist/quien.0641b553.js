@@ -529,4 +529,4 @@ hoverLink.forEach((link)=>{
 
 },{}]},["6IXwR","bNKaB"], "bNKaB", "parcelRequire3c64")
 
-//# sourceMappingURL=index.0641b553.js.map
+//# sourceMappingURL=quien.0641b553.js.map
