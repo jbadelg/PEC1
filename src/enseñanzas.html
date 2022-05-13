@@ -48,8 +48,12 @@
             muerte, hay un sin número de enseñanzas hechas por Jesús, pero aca destacamos sólo algunas.
           </p>
           <figure>
-            <img src="img/enseña.jpg" alt="Jesús enseñando" width="500" height="463" class="img-fluid">
-            <figcaption>Jesús enseñando</figcaption>
+            <picture>
+              <source media="(max-width: 600px)" srcset="img/enseña-520.png">
+              <source media="(max-width: 1100px)" srcset="img/enseña-960w.png">
+              <source media="(max-width: 1600px)" srcset="img/enseña-1400w.png">
+              <img src="img/enseña-1896w.png" class="img-fluid" alt="Jesús enseñando en el templo">
+            </picture>
           </figure>
           <h2>Regla de oro</h2>
           <p>Jesús nos enseño a pensar en los demás, en sus necesidades, su situación, a no ser egoístas y ponernos en
@@ -127,6 +131,17 @@
   </main>
   <footer>
     <div class="container">
+      <div class="brand">
+        <a href="index.html"><img src="./img/logoJesus.svg" alt="logo del sitio" title="Jesús" width="70"
+            height="40"></a>
+      </div>
+      <nav class="nav-foot">
+        <ul>
+          <li><a href="quien.html">Quien es?</a></li>
+          <li><a href="categorias.html">Sus Hechos</a></li>
+          <li><a href="enlaces.html">Enlaces</a></li>
+        </ul>
+      </nav>
       <p>2022 &copy; Herramientas HTML y CSS Aula 1: Angel Javier Badel Gasca</p>
       <ul>
         <li><a href="">Aviso legal</a></li>

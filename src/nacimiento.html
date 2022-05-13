@@ -53,7 +53,9 @@
             actualidad se cifra un error de cuatro a ocho años.
           </p>
           <figure>
-            <img src="img/nacimiento.jpg" alt="Nacimiento de Jesús" width="500" height="463" class="img-fluid">
+            <img srcset="img/nacimiento-450w.jpg 450w,
+	                       img/nacimiento-795w.jpg 795w" sizes="(max-width: 920px) 450px,
+	                       795px" src="img/nacimiento-795w.jpg" alt="Nacimiento de Jesús" class="img-fluid">
             <figcaption>José y Maria cargando a Jesús recien nacido</figcaption>
           </figure>
           <p>María, una mujer judía de Nazaret fue visitada por un ángel llamado Gabriel quien le dijo que daría a luz a
@@ -111,6 +113,17 @@
   </main>
   <footer>
     <div class="container">
+      <div class="brand">
+        <a href="index.html"><img src="./img/logoJesus.svg" alt="logo del sitio" title="Jesús" width="70"
+            height="40"></a>
+      </div>
+      <nav class="nav-foot">
+        <ul>
+          <li><a href="quien.html">Quien es?</a></li>
+          <li><a href="categorias.html">Sus Hechos</a></li>
+          <li><a href="enlaces.html">Enlaces</a></li>
+        </ul>
+      </nav>
       <p>2022 &copy; Herramientas HTML y CSS Aula 1: Angel Javier Badel Gasca</p>
       <ul>
         <li><a href="">Aviso legal</a></li>

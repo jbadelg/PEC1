@@ -53,7 +53,15 @@
             duraba días) y no el peor, como acostumbraba la mayoría.
           </p>
           <figure>
-            <img src="img/vino.jpg" alt="Jesús convierte el agua en vino" width="500" height="463" class="img-fluid">
+            <!-- <img src="img/vino.jpg" alt="Jesús convierte el agua en vino" width="500" height="463" class="img-fluid"> -->
+            <img srcset="img/vino-1200w.png 1200w,
+	                       img/vino-900w.png 900w,
+                         img/vino-675w.png 675w,
+                         img/vino-380w.png 380w" sizes="(max-width: 400px) 380px,
+                        (max-width: 800px) 675px,
+                        (max-width: 1100px) 900px,
+                        (max-width: 1800px) 1200px,
+	                       1200px" src="img/vino-1200w.png" alt="Jesús convierte el agua en vino" class="img-fluid">
             <figcaption>Jesús convierte el agua en vino</figcaption>
           </figure>
 
@@ -86,8 +94,15 @@
             a Dios, luego los repartió entre la multitud de mas de cinco mil personas, y hasta sobraron doce canastas
             llenas. </p>
           <figure>
-            <img src="img/panes.jpg" alt="Jesús alimenta cinco mil personas con cinco panes y dos peces" width="600"
-              height="463" class="img-fluid">
+            <!-- <img src="img/panes.jpg" alt="Jesús alimenta cinco mil personas con cinco panes y dos peces" width="600"
+              height="463" class="img-fluid"> -->
+            <picture>
+              <source media="(max-width: 500px)" srcset="img/panes-480w.png">
+              <source media="(max-width: 800px)" srcset="img/panes-720w.png">
+              <source media="(max-width: 1100px)" srcset="img/panes-1024w.png">
+              <img src="img/panes-1280w1x.png" class="img-fluid"
+                alt="Jesús alimenta cinco mil personas con cinco panes y dos peces">
+            </picture>
             <figcaption>Jesús alimenta cinco mil personas con cinco panes y dos peces</figcaption>
           </figure>
           <p>En las manos de Jesús aún lo poco que le entreguemos, puede llegar a ser mucho. En otra oportunidad
@@ -116,8 +131,10 @@
             de todas las personas, pero luego se levantó, resucitó, <em> esta vivo!!!</em>
           </p>
           <figure>
-            <img src="img/resurreccion.jpg" alt="Jesús saliendo de la tumba luego de vencer la muerte" width="600"
-              height="463" class="img-fluid">
+            <img srcset="img/resurreccion400.png 400w" sizes="(max-width: 920px) 400px,
+	                       621px" src="img/resurreccion621.png" alt="Jesús saliendo de la tumba luego de vencer la muerte"
+              class="img-fluid">
+            <!-- <img src="img/resurreccion.jpg" alt="Jesús saliendo de la tumba luego de vencer la muerte" width="600" height="463" class="img-fluid"> -->
             <figcaption>Jesús saliendo de la tumba luego de vencer la muerte</figcaption>
           </figure>
           <blockquote>
@@ -144,6 +161,17 @@
   </main>
   <footer>
     <div class="container">
+      <div class="brand">
+        <a href="index.html"><img src="./img/logoJesus.svg" alt="logo del sitio" title="Jesús" width="70"
+            height="40"></a>
+      </div>
+      <nav class="nav-foot">
+        <ul>
+          <li><a href="quien.html">Quien es?</a></li>
+          <li><a href="categorias.html">Sus Hechos</a></li>
+          <li><a href="enlaces.html">Enlaces</a></li>
+        </ul>
+      </nav>
       <p>2022 &copy; Herramientas HTML y CSS Aula 1: Angel Javier Badel Gasca</p>
       <ul>
         <li><a href="">Aviso legal</a></li>

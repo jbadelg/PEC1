@@ -1,2 +1,0 @@
-var dotActive=document.querySelector(".active"),hoverLink=document.querySelectorAll("nav.nav ul li a:not(.active)");hoverLink.forEach((function(e){e.addEventListener("mouseenter",(function(e){dotActive.style.borderBottom="none"}))})),hoverLink.forEach((function(e){e.addEventListener("mouseleave",(function(e){dotActive.style.borderBottom="3px dotted"}))}));
-//# sourceMappingURL=enlaces.58243b78.js.map
